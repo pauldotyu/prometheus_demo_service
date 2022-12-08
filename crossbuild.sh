@@ -7,6 +7,7 @@ platforms=(
 	"linux/amd64"
 	"linux/386"
 	"darwin/amd64"
+	"darwin/arm64"
 	"windows/amd64"
 	"windows/386"
 	"freebsd/amd64"
